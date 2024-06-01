@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#2FB0DA</color>
+    <color name="colorPrimaryDark">#0969B3</color>
+    <color name="colorAccent">#F47500</color>
+
+    <color name="green">#3BB54A</color>
+
+    <color name="Black">#000000</color>
+    <color name="Red">#D01900</color>
+    <color name="Blue">#002AFF</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="transparent">#00000000</color>
+    <color name="semiTransparentBlack">#4D000000</color>
+    <color name="secondary">#F47500</color>
+
+    <color name="SemiBlack">#AAAAAA</color>
+    <color name="SemiBlack1">#FFFFFF</color>
+    <color name="SemiBlack2">#F2F2F2</color>
+    <color name="SemiBlack3">#ECECEC</color>
+    <color name="SemiBlack4">#DEDEDE</color>
+    <color name="SemiBlack5">#B9B9B9</color>
+    <color name="SemiBlack6">#C9CFDC</color>
+    <color name="SemiBlack7">#F4F4F4</color>
+    <color name="SemiBlack8">#8C8C8C</color>
+    <color name="SemiBlack9">#F6F6F6</color>
+    <color name="SemiBlack10">#F7F7F7</color>
+    <color name="SemiBlack11">#575757</color>
+
+
+    <color name="darkGray">#c7c7c7</color>
+    <color name="lightGray">#f1f1f1</color>
+    <color name="darkLightGray">#9f9f9f</color>
+    <color name="lightGray2">#E7E7E7</color>
+
+    <!--new design-->
+    <color name="lightBlue">#66D3F2</color>
+    <color name="orange">#F47500</color>
+</resources>
